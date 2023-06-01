@@ -20,17 +20,17 @@ I love 🏊‍♂️, 🚲, 🏋🏻‍♂️
 </div>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><br>
-<br><br>
+<br>
 
 
 ### Middle Ware 
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/><br>
-<br><br>
+<br>
 
 ### Collaboration
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=GitHub&logoColor=white"/><br>
-<br><br>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/><br>
+<br>
 
 ### Cloud
 <div class="row">
@@ -38,10 +38,12 @@ I love 🏊‍♂️, 🚲, 🏋🏻‍♂️
   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/> 
 </div>
-<br><br>
+<br>
 
 ### Tools 
-<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/> 
-<br><br>
+<div class="row">
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/> 
+</div>
+<br>
 
