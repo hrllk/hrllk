@@ -57,21 +57,21 @@ I love 🏊‍♂️, 🚲, 🏋🏻‍♂️
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><br>
-<br><br>
+<br>
 
 <div>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> 
 </div>
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/><br>
-<br><br>
+<br>
 
 <div>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> 
 </div>
-<br><br>
+<br>
 
 <div>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> 
@@ -79,7 +79,7 @@ I love 🏊‍♂️, 🚲, 🏋🏻‍♂️
   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/> 
 </div>
-<br><br>
+<br>
 
 <div>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/> 
