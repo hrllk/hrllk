@@ -83,7 +83,7 @@ I love 🏊‍♂️, 🚲, 🏋🏻‍♂️
   <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/> 
 </div>
-
+ 
 
 ## ⭐️ Stats
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
