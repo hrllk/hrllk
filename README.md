@@ -5,7 +5,7 @@
 
 Hi, 🙋🏻‍♂️ I'm backend developer using Java and Spring 
 
-I love 🏊‍♂️, 🚲, 🏋🏻‍♂️
+I love listening to lofi & minecraft music
 
 
 
