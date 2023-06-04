@@ -1,17 +1,17 @@
 
 import feedparser, time
 
-URL="https://hwimer.github.io/feed"
+URL="https://hwimer.github.io/feed.xml"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST=7
 
 markdown_text = """
-[쓰고싶은 내용]
 """
 
+print('hi!!')
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
-        break
+        break;
     else:
         feed_date = feed['published_parsed']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
