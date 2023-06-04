@@ -41,7 +41,7 @@ jobs:
         git diff
         git config --local user.email "heykia3@protonmail.com"
         git config --local user.name "hrllk"
-        git config --global user.password "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"
+        #        git config --global user.password "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"
         git commit -m "Synchronize Posts"
         git push
 

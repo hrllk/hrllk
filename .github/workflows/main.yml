@@ -1,0 +1,4 @@
+- name: Checkout repository
+  uses: actions/checkout@v2
+  with:
+    token: ${{ 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 }}
