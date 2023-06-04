@@ -47,3 +47,5 @@ I love listening to lofi & minecraft music
 
 ## ⭐️ Stats
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
+
+## ⛏️ Recent Posts
