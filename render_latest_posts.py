@@ -1,7 +1,7 @@
 
 import feedparser, time
 
-URL="https://hwimer.github.io/feed.xml"
+URL="https://hrllk.github.io/feed.xml"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST=7
 
