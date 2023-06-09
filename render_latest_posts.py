@@ -9,7 +9,7 @@ markdown_text = """
 <!-- header -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=:\)&fontSize=90)
 Hi, 🙋🏻‍♂️ I'm backend developer using Java and Spring 
-I love listening to lofi & minecraft music
+I love listening to lofi & minecraft music <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrllk%2F&count_bg=%23D4E7F0&title_bg=%2378BBD8&icon=&icon_color=%23B8B8B8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📚 Stacks 
