@@ -41,6 +41,7 @@ I love listening to lofi & minecraft music <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2023/06/10 - 쿠버네티스](https://hrllk.github.io//modernsoftware/kubernetes/) <br/>
 [2023/05/16 - Tmux 사용법](https://hrllk.github.io//utility/tmux/) <br/>
 [2023/04/29 - Stack](https://hrllk.github.io//java/Stack/) <br/>
 [2023/04/29 - Synchronized Method](https://hrllk.github.io//java/Synchronized/) <br/>
@@ -48,4 +49,3 @@ I love listening to lofi & minecraft music <br>
 [2023/04/13 - ThreadSafe](https://hrllk.github.io//cs/ThreadSafe/) <br/>
 [2023/03/21 - LocalDateTime_not_supported_by_default](https://hrllk.github.io//troubleshooting/LocalDateTime_not_supported_by_default/) <br/>
 [2023/02/27 - Docker 와 VM](https://hrllk.github.io//modernsoftware/docker/) <br/>
-[2023/02/21 - Factory Pattern](https://hrllk.github.io//designpattern/factory-pattern/) <br/>
