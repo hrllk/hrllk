@@ -41,11 +41,11 @@ I love listening to lofi & minecraft music <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2023/06/22 - what is haproxy??](https://hrllk.github.io//network/haproxy/) <br/>
+[2023/06/22 - what is layer 7 load balancing?](https://hrllk.github.io//network/layer-7-load-balancing/) <br/>
+[2023/06/21 - why we use scm-manager?](https://hrllk.github.io//modernsoftware/scm-manager/) <br/>
+[2023/06/13 - persistent volume](https://hrllk.github.io//modernsoftware/persistent-volume/) <br/>
+[2023/06/13 - storage class](https://hrllk.github.io//modernsoftware/storage-class/) <br/>
 [2023/06/12 - Helm Chart Install Guide](https://hrllk.github.io//modernsoftware/helm-chart-install-guide/) <br/>
 [2023/06/12 - Kubenetes CLI Guide](https://hrllk.github.io//modernsoftware/kubeneties-cli/) <br/>
 [2023/06/12 - What Is Helm?](https://hrllk.github.io//modernsoftware/what-is-helm/) <br/>
-[2023/06/10 - 쿠버네티스](https://hrllk.github.io//modernsoftware/kubernetes/) <br/>
-[2023/05/16 - Tmux 사용법](https://hrllk.github.io//utility/tmux/) <br/>
-[2023/04/29 - Stack](https://hrllk.github.io//java/Stack/) <br/>
-[2023/04/29 - Synchronized Method](https://hrllk.github.io//java/Synchronized/) <br/>
-[2023/04/13 - MultiThread](https://hrllk.github.io//cs/MultiThread/) <br/>
