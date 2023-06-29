@@ -43,9 +43,9 @@ I love listening to lofi & minecraft music <br>
 ## ⛏️ Recent Posts
 [2023/06/27 - docker commands](https://hrllk.github.io//modernsoftware/docker-command/) <br/>
 [2023/06/27 - k8s component - Control Plane](https://hrllk.github.io//k8s-component-control-plain/) <br/>
+[2023/06/27 - what is openshift](https://hrllk.github.io//modernsoftware/openshift/) <br/>
 [2023/06/26 - what is containerd ? (in kubernetes)](https://hrllk.github.io//modernsoftware/containerd/) <br/>
 [2023/06/26 - what is ctr (in containerd)](https://hrllk.github.io//modernsoftware/ctr-containerd-cli/) <br/>
 [2023/06/26 - what is kubelet? (in kubernetes)](https://hrllk.github.io//modernsoftware/kubelet/) <br/>
 [2023/06/23 - K8S Service Account](https://hrllk.github.io//modernsoftware/k8s-service-account/) <br/>
 [2023/06/22 - what is haproxy??](https://hrllk.github.io//network/haproxy/) <br/>
-[2023/06/22 - what is layer 7 load balancing?](https://hrllk.github.io//network/layer-7-load-balancing/) <br/>
