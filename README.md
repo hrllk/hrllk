@@ -41,11 +41,11 @@ I love listening to lofi & minecraft music <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2023/07/11 - Harbor](https://hrllk.github.io//harbor/) <br/>
+[2023/07/11 - Nexus](https://hrllk.github.io//nexus/) <br/>
+[2023/07/10 - git flow](https://hrllk.github.io//modernsoftware/devops/git-flow/) <br/>
+[2023/07/10 - github과 gitlab의 flow](https://hrllk.github.io//modernsoftware/devops/show-diff-flow-github-gitlab/) <br/>
 [2023/07/09 - what is openstack](https://hrllk.github.io//modernsoftware/openstack/) <br/>
 [2023/07/08 - what is nas??](https://hrllk.github.io//modernsoftware/nas/) <br/>
 [2023/06/27 - docker commands](https://hrllk.github.io//modernsoftware/docker-command/) <br/>
 [2023/06/27 - k8s component - Control Plane](https://hrllk.github.io//modernsoftware/k8s-component-control-plain/) <br/>
-[2023/06/27 - what is openshift](https://hrllk.github.io//modernsoftware/openshift/) <br/>
-[2023/06/26 - what is containerd ? (in kubernetes)](https://hrllk.github.io//modernsoftware/containerd/) <br/>
-[2023/06/26 - what is ctr (in containerd)](https://hrllk.github.io//modernsoftware/ctr-containerd-cli/) <br/>
-[2023/06/26 - what is kubelet? (in kubernetes)](https://hrllk.github.io//modernsoftware/kubelet/) <br/>
