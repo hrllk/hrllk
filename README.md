@@ -41,6 +41,7 @@ I love listening to lofi & minecraft music <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2023/07/13 - Git Hook](https://hrllk.github.io//git-hook/) <br/>
 [2023/07/11 - Harbor](https://hrllk.github.io//harbor/) <br/>
 [2023/07/11 - Nexus](https://hrllk.github.io//nexus/) <br/>
 [2023/07/10 - git flow](https://hrllk.github.io//modernsoftware/devops/git-flow/) <br/>
@@ -48,4 +49,3 @@ I love listening to lofi & minecraft music <br>
 [2023/07/09 - what is openstack](https://hrllk.github.io//modernsoftware/openstack/) <br/>
 [2023/07/08 - what is nas??](https://hrllk.github.io//modernsoftware/nas/) <br/>
 [2023/06/27 - docker commands](https://hrllk.github.io//modernsoftware/docker-command/) <br/>
-[2023/06/27 - k8s component - Control Plane](https://hrllk.github.io//modernsoftware/k8s-component-control-plain/) <br/>
