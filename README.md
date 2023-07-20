@@ -41,6 +41,7 @@ I love listening to lofi & minecraft music <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2023/07/18 - gitlab merge request 절차](https://hrllk.github.io//modernsoftware/gitlab-api-merge-request/) <br/>
 [2023/07/17 - neovim이란 ?](https://hrllk.github.io//network/neovim/) <br/>
 [2023/07/17 - nmap이란 ?](https://hrllk.github.io//network/nmap/) <br/>
 [2023/07/16 - serialVersionUID란?](https://hrllk.github.io//modernsoftware/serialVerionUID/) <br/>
@@ -48,4 +49,3 @@ I love listening to lofi & minecraft music <br>
 [2023/07/11 - Harbor](https://hrllk.github.io//harbor/) <br/>
 [2023/07/11 - Nexus](https://hrllk.github.io//nexus/) <br/>
 [2023/07/10 - git flow](https://hrllk.github.io//modernsoftware/devops/git-flow/) <br/>
-[2023/07/10 - github과 gitlab의 flow](https://hrllk.github.io//modernsoftware/devops/show-diff-flow-github-gitlab/) <br/>
