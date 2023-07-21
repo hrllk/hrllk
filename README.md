@@ -1,7 +1,7 @@
 
 <!-- header -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=:\)&fontSize=90)
-Hi, 🙋🏻‍♂️ I'm backend developer using Java and Spring 
+Hi, 🙋🏻‍♂️ I'm backend developer using Java and Spring <br>
 I love listening to lofi & minecraft music <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrllk%2F&count_bg=%23D4E7F0&title_bg=%2378BBD8&icon=&icon_color=%23B8B8B8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -41,6 +41,7 @@ I love listening to lofi & minecraft music <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2023/07/21 - log4jdbc](https://hrllk.github.io//java/framework/log4jdbc/) <br/>
 [2023/07/19 - maven vs gradle](https://hrllk.github.io//modernsoftware/maven-vs-gradle/) <br/>
 [2023/07/18 - gitlab merge request 절차](https://hrllk.github.io//modernsoftware/gitlab-api-merge-request/) <br/>
 [2023/07/17 - neovim이란 ?](https://hrllk.github.io//network/neovim/) <br/>
@@ -48,4 +49,3 @@ I love listening to lofi & minecraft music <br>
 [2023/07/16 - serialVersionUID란?](https://hrllk.github.io//modernsoftware/serialVerionUID/) <br/>
 [2023/07/13 - Git Hook](https://hrllk.github.io//git-hook/) <br/>
 [2023/07/11 - Harbor](https://hrllk.github.io//harbor/) <br/>
-[2023/07/11 - Nexus](https://hrllk.github.io//nexus/) <br/>
