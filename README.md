@@ -41,6 +41,7 @@ I love listening to lofi & minecraft music <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2023/09/28 - Maven Shade Plugin](https://hrllk.github.io//troubleshooting/maven-shade-plugin/) <br/>
 [2023/07/21 - log4jdbc](https://hrllk.github.io//java/framework/log4jdbc/) <br/>
 [2023/07/19 - maven vs gradle](https://hrllk.github.io//modernsoftware/maven-vs-gradle/) <br/>
 [2023/07/18 - gitlab merge request 절차](https://hrllk.github.io//modernsoftware/gitlab-api-merge-request/) <br/>
@@ -48,4 +49,3 @@ I love listening to lofi & minecraft music <br>
 [2023/07/17 - nmap이란 ?](https://hrllk.github.io//network/nmap/) <br/>
 [2023/07/16 - serialVersionUID란?](https://hrllk.github.io//modernsoftware/serialVerionUID/) <br/>
 [2023/07/13 - Git Hook](https://hrllk.github.io//git-hook/) <br/>
-[2023/07/11 - Harbor](https://hrllk.github.io//harbor/) <br/>
