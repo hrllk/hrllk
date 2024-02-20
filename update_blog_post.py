@@ -2,7 +2,7 @@
 ## update post of blog 
 import feedparser
 
-blog_url = "https://hwimer.github.io/feed.xml
+blog_url = "https://hrllk.github.io/feed.xml
 rss_feed = feedparser.parse(blog_url)
 
 MAX_NUM = 5
