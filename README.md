@@ -41,11 +41,11 @@ I love listening lofi <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
-[2023/09/28 - Maven Shade Plugin](https://hrllk.github.io//troubleshooting/maven-shade-plugin/) <br/>
-[2023/07/21 - log4jdbc](https://hrllk.github.io//java/framework/log4jdbc/) <br/>
-[2023/07/19 - maven vs gradle](https://hrllk.github.io//modernsoftware/maven-vs-gradle/) <br/>
-[2023/07/18 - gitlab merge request 절차](https://hrllk.github.io//modernsoftware/gitlab-api-merge-request/) <br/>
-[2023/07/17 - neovim이란 ?](https://hrllk.github.io//network/neovim/) <br/>
-[2023/07/17 - nmap이란 ?](https://hrllk.github.io//network/nmap/) <br/>
-[2023/07/16 - serialVersionUID란?](https://hrllk.github.io//modernsoftware/serialVerionUID/) <br/>
-[2023/07/13 - Git Hook](https://hrllk.github.io//git-hook/) <br/>
+[2024/02/17 - CS 오답노트](https://hrllk.github.io//cs/cs-note/) <br/>
+[2024/02/16 - CS 오답노트 linux](https://hrllk.github.io//os/cs/cs-note-lnx/) <br/>
+[2024/02/14 - CS 오답노트](https://hrllk.github.io//cs/cs-note/) <br/>
+[2024/02/14 - CS 오답노트](https://hrllk.github.io//cs/cs-note2/) <br/>
+[2024/02/13 - CS 오답노트](https://hrllk.github.io//cs/cs-note/) <br/>
+[2024/02/13 - CS 오답노트(24.02.13-2)](https://hrllk.github.io//cs/cs-note2/) <br/>
+[2024/02/08 - what is subnetmask?](https://hrllk.github.io//cs/network/subnetmask/) <br/>
+[2024/02/02 - WHAT IS ICMP](https://hrllk.github.io//cs/ICMP/) <br/>
