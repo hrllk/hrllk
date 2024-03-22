@@ -41,6 +41,7 @@ I love listening lofi <br>
 ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
 
 ## ⛏️ Recent Posts
+[2024/03/22 - generic response](https://hrllk.github.io//modernsoftware/spring/generic-response/) <br/>
 [2024/03/20 - what is non-blocking http](https://hrllk.github.io//cs/non-blocking-http-request/) <br/>
 [2024/03/18 - what is csrf](https://hrllk.github.io//spring/csrf/) <br/>
 [2024/03/08 - hexagonal architecture](https://hrllk.github.io//softwarearchitecturepattern/hexagonal-architecture/) <br/>
@@ -48,4 +49,3 @@ I love listening lofi <br>
 [2024/02/17 - CS 오답노트](https://hrllk.github.io//cs/cs-note/) <br/>
 [2024/02/16 - CS 오답노트 linux](https://hrllk.github.io//os/cs/cs-note-lnx/) <br/>
 [2024/02/14 - CS 오답노트](https://hrllk.github.io//cs/cs-note/) <br/>
-[2024/02/14 - CS 오답노트](https://hrllk.github.io//cs/cs-note2/) <br/>
