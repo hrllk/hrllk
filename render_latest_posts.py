@@ -13,7 +13,7 @@ markdown_text = """
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrllk%2F&count_bg=%23D4E7F0&title_bg=%2378BBD8&icon=&icon_color=%23B8B8B8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ## Hi There, I'm HwiRyung :) 
------
+--
 
 ## About Me
 I'm software engineer from seoul. 
@@ -50,7 +50,7 @@ I'm software engineer from seoul.
 <!-- #   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/> -->
 <!-- # </div> --> -->
 
-# Stack 
+## Stack 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
