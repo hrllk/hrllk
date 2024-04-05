@@ -18,15 +18,11 @@ markdown_text = """
 ## About Me
 Hello! My name is Hwiryung Kim, and I'm a dedicated backend developer with a passion for crafting clean, efficient code and solving complex problems. With a strong foundation in Java and expertise in the Spring framework, I thrive in architecting robust systems that stand the test of time.
 
-<! -- One of my key focuses is on writing clean, maintainable code that not only meets current requirements but also sets a solid foundation for future enhancements. I believe in the importance of adhering to best practices and design principles to ensure codebase integrity and scalability. -->
-<! --  -->
-<! -- When it comes to architecture, I strive to design systems that are modular, scalable, and adaptable to change. I enjoy exploring different architectural patterns and methodologies to find the best fit for each project, always keeping scalability and maintainability in mind. -->
 
 In addition, I have a keen interest in design patterns and their application to solving real-world problems. Whether it's implementing creational, structural, or behavioral patterns, I leverage these patterns to improve code readability, flexibility, and maintainability.
 
 Above all, I consider myself a problem solver at heart. I thrive on tackling challenges head-on, breaking them down into manageable tasks, and finding innovative solutions to overcome them. I'm always eager to learn new technologies and methodologies to expand my skill set and stay ahead in this dynamic field.
 
-<!-- Thank you for considering me, and I look forward to the opportunity to contribute to your team and projects.-->
 
 
 
