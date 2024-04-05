@@ -5,11 +5,24 @@
 <!-- I love listening lofi <br> -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrllk%2F&count_bg=%23D4E7F0&title_bg=%2378BBD8&icon=&icon_color=%23B8B8B8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-## Hi There, I'm HwiRyung :) 
---
+<!-- ## Hi There, I'm HwiRyung :) -->
+
 
 ## About Me
-I'm software engineer from seoul. 
+Hello! My name is Hwiryung Kim, and I'm a dedicated backend developer with a passion for crafting clean, efficient code and solving complex problems. With a strong foundation in Java and expertise in the Spring framework, I thrive in architecting robust systems that stand the test of time.
+
+<! -- One of my key focuses is on writing clean, maintainable code that not only meets current requirements but also sets a solid foundation for future enhancements. I believe in the importance of adhering to best practices and design principles to ensure codebase integrity and scalability. -->
+<! --  -->
+<! -- When it comes to architecture, I strive to design systems that are modular, scalable, and adaptable to change. I enjoy exploring different architectural patterns and methodologies to find the best fit for each project, always keeping scalability and maintainability in mind. -->
+
+In addition, I have a keen interest in design patterns and their application to solving real-world problems. Whether it's implementing creational, structural, or behavioral patterns, I leverage these patterns to improve code readability, flexibility, and maintainability.
+
+Above all, I consider myself a problem solver at heart. I thrive on tackling challenges head-on, breaking them down into manageable tasks, and finding innovative solutions to overcome them. I'm always eager to learn new technologies and methodologies to expand my skill set and stay ahead in this dynamic field.
+
+<!-- Thank you for considering me, and I look forward to the opportunity to contribute to your team and projects.-->
+
+
+
 
 
 <!-- # # 📚 Stacks -->
@@ -43,17 +56,17 @@ I'm software engineer from seoul.
 <!-- #   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/> -->
 <!-- # </div> --> -->
 
-## Stack 
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab"/>
-</div>
+<!--# ## Stack -->
+<!--# <div>-->
+<!--#   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>-->
+<!--#   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>-->
+<!--#   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>-->
+<!--#   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>-->
+<!--#   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab"/>-->
+<!--# </div>-->
 
-##  Stats
-![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko)
+<!-- ##  Stats -->
+<!-- ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko) -->
 
 ##  Posts
 [2024/03/26 - caching getting started on spring boot](https://hrllk.github.io//spring%20-%20modernsoftware/caching-getting-started-on-spring/) <br/>
