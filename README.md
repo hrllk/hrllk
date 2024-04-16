@@ -65,6 +65,7 @@ Above all, I consider myself a problem solver at heart. I thrive on tackling cha
 <!-- ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko) -->
 
 ##  Posts
+[2024/04/16 - caching getting started on spring boot](https://hrllk.github.io//spring/troubleshooting/message-converter/) <br/>
 [2024/03/26 - caching getting started on spring boot](https://hrllk.github.io//spring%20-%20modernsoftware/caching-getting-started-on-spring/) <br/>
 [2024/03/22 - generic response](https://hrllk.github.io//modernsoftware/spring/generic-response/) <br/>
 [2024/03/20 - what is non-blocking http](https://hrllk.github.io//cs/non-blocking-http-request/) <br/>
@@ -72,4 +73,3 @@ Above all, I consider myself a problem solver at heart. I thrive on tackling cha
 [2024/03/08 - hexagonal architecture](https://hrllk.github.io//softwarearchitecturepattern/hexagonal-architecture/) <br/>
 [2024/03/04 - troubleShooting getReader has already been called](https://hrllk.github.io//troubleshooting/trouble-shooting-get-inputstream-has-already-been-called/) <br/>
 [2024/02/17 - CS 오답노트](https://hrllk.github.io//cs/cs-note/) <br/>
-[2024/02/16 - CS 오답노트 linux](https://hrllk.github.io//os/cs/cs-note-lnx/) <br/>
