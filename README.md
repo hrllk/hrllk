@@ -11,15 +11,11 @@
 ## About Me
 Hello! My name is Hwiryung Kim, and I'm a dedicated backend developer with a passion for crafting clean, efficient code and solving complex problems. With a strong foundation in Java and expertise in the Spring framework, I thrive in architecting robust systems that stand the test of time.
 
-<! -- One of my key focuses is on writing clean, maintainable code that not only meets current requirements but also sets a solid foundation for future enhancements. I believe in the importance of adhering to best practices and design principles to ensure codebase integrity and scalability. -->
-<! --  -->
-<! -- When it comes to architecture, I strive to design systems that are modular, scalable, and adaptable to change. I enjoy exploring different architectural patterns and methodologies to find the best fit for each project, always keeping scalability and maintainability in mind. -->
 
 In addition, I have a keen interest in design patterns and their application to solving real-world problems. Whether it's implementing creational, structural, or behavioral patterns, I leverage these patterns to improve code readability, flexibility, and maintainability.
 
 Above all, I consider myself a problem solver at heart. I thrive on tackling challenges head-on, breaking them down into manageable tasks, and finding innovative solutions to overcome them. I'm always eager to learn new technologies and methodologies to expand my skill set and stay ahead in this dynamic field.
 
-<!-- Thank you for considering me, and I look forward to the opportunity to contribute to your team and projects.-->
 
 
 
@@ -69,11 +65,11 @@ Above all, I consider myself a problem solver at heart. I thrive on tackling cha
 <!-- ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko) -->
 
 ##  Posts
+[2024/05/08 - spring cloud getting started](https://hrllk.github.io//spring/spring-cloud-quick-start/) <br/>
+[2024/05/07 - what is diffrenet between XSSFWorkbook and SXSSFWorkbook](https://hrllk.github.io//spring/troubleshooting/diffrence-between-XSSFWorkbook-and-SXSSFWorkbook/) <br/>
+[2024/04/16 - Could not write JSON JsonObject (default message converter of spring)](https://hrllk.github.io//troubleshooting/spring/message-converter/) <br/>
 [2024/03/26 - caching getting started on spring boot](https://hrllk.github.io//spring%20-%20modernsoftware/caching-getting-started-on-spring/) <br/>
 [2024/03/22 - generic response](https://hrllk.github.io//modernsoftware/spring/generic-response/) <br/>
 [2024/03/20 - what is non-blocking http](https://hrllk.github.io//cs/non-blocking-http-request/) <br/>
 [2024/03/18 - what is csrf](https://hrllk.github.io//spring/csrf/) <br/>
 [2024/03/08 - hexagonal architecture](https://hrllk.github.io//softwarearchitecturepattern/hexagonal-architecture/) <br/>
-[2024/03/04 - troubleShooting getReader has already been called](https://hrllk.github.io//troubleshooting/trouble-shooting-get-inputstream-has-already-been-called/) <br/>
-[2024/02/17 - CS 오답노트](https://hrllk.github.io//cs/cs-note/) <br/>
-[2024/02/16 - CS 오답노트 linux](https://hrllk.github.io//os/cs/cs-note-lnx/) <br/>
