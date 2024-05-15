@@ -1,9 +1,10 @@
 
-import feedparser, time
+import feedparser
+import time
 
-URL="https://hrllk.github.io/feed.xml"
+URL = "https://hrllk.github.io/feed.xml"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=7
+MAX_POST = 7
 
 markdown_text = """
 <!-- header -->
@@ -16,71 +17,23 @@ markdown_text = """
 
 
 ## About Me
-Hello! My name is Hwiryung Kim, and I'm a dedicated backend developer with a passion for crafting clean, efficient code and solving complex problems. With a strong foundation in Java and expertise in the Spring framework, I thrive in architecting robust systems that stand the test of time.
-
+Hello! My name is Hwiryung Kim, and I'm a dedicated backend developer with a passion for crafting clean, efficient code and solving complex problems. With a strong foundation in Java and expertise in the Spring framework, I thrive in architecting robust systems that stand the test of time. 
 
 In addition, I have a keen interest in design patterns and their application to solving real-world problems. Whether it's implementing creational, structural, or behavioral patterns, I leverage these patterns to improve code readability, flexibility, and maintainability.
 
 Above all, I consider myself a problem solver at heart. I thrive on tackling challenges head-on, breaking them down into manageable tasks, and finding innovative solutions to overcome them. I'm always eager to learn new technologies and methodologies to expand my skill set and stay ahead in this dynamic field.
-
-
-
-
-
-
-<!-- # # 📚 Stacks -->
-<!-- # <div> -->
-<!-- #   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/> -->
-<!-- # </div> -->
-<!-- # <div> -->
-<!-- #   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> -->
-<!-- # </div> -->
-<!-- # <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/> -->
-<!-- # <div> -->
-<!-- #   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> -->
-<!-- # </div> -->
-<!-- # <div> -->
-<!-- #   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/> -->
-<!-- # </div> -->
-<!-- # <div> -->
-<!-- #   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> -->
-<!-- # </div> -->
-<!-- # <div> -->
-<!-- #   <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/> -->
-<!-- #   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/> -->
-<!-- # </div> --> -->
-
-<!--# ## Stack -->
-<!--# <div>-->
-<!--#   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>-->
-<!--#   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>-->
-<!--#   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>-->
-<!--#   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>-->
-<!--#   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab"/>-->
-<!--# </div>-->
-
-<!-- ##  Stats -->
-<!-- ![Hrllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrllk&show_icons=true&theme=merko) -->
 
 ##  Posts
 """
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
-        break;
+        break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {
+            feed['title']}]({feed['link']}) <br/>\n"
 
-f = open("README.md",mode="w", encoding="utf-8")
+f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
