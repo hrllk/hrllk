@@ -1,6 +1,6 @@
----
-- name: Checkout repository
-  uses: actions/checkout@v2
-  with:
-    token: ${{ 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 }}
-
+# ---
+# - name: Checkout repository
+#   uses: actions/checkout@v2
+#   with:
+#     token: ${{ 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 }}
+#
