@@ -28,11 +28,11 @@ I believe simplicity is not about writing less code it's about writing the right
 
 ##  Posts
 <!-- Posts:START -->
+- [Mockist TDD](https://hrllk.github.io//java/Mockist-TDD/)
 - [Implementations of Map](https://hrllk.github.io//java/Implementations-of-Map/)
 - [anomalies of concurrency](https://hrllk.github.io//database/anomalies-of-concurrency/)
 - [READ_UNCOMMITTED](https://hrllk.github.io//java/troubleshooting/READ_UNCOMMITTED/)
 - [how to use PATCH method in feign client](https://hrllk.github.io//java/troubleshooting/how-to-use-patch-in-feign/)
-- [try with resources](https://hrllk.github.io//java/try-with-resources/)
 <!-- Posts:END -->
 
 ##  WebSite
