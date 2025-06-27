@@ -28,11 +28,11 @@ I believe simplicity is not about writing less code it's about writing the right
 
 ##  Posts
 <!-- Posts:START -->
+- [ArrayDeque?](https://hrllk.github.io//data-structure/ArrayDeque/)
 - [Nullish, Falsy](https://hrllk.github.io//javascript/Nullish-Falsy/)
 - [Mockist TDD](https://hrllk.github.io//java/Mockist-TDD/)
 - [Implementations of Map](https://hrllk.github.io//java/Implementations-of-Map/)
 - [anomalies of concurrency](https://hrllk.github.io//database/anomalies-of-concurrency/)
-- [READ_UNCOMMITTED](https://hrllk.github.io//java/troubleshooting/READ_UNCOMMITTED/)
 <!-- Posts:END -->
 
 ##  WebSite
