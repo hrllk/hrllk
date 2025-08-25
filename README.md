@@ -28,11 +28,11 @@ I believe simplicity is not about writing less code it's about writing the right
 
 ##  Posts
 <!-- Posts:START -->
+- [NDJSON](https://hrllk.github.io//cs/NDJSON/)
 - [Quick Start Task Master](https://hrllk.github.io//ai/getting-started-taskMatser/)
 - [ArrayDeque?](https://hrllk.github.io//data-structure/ArrayDeque/)
 - [Nullish, Falsy](https://hrllk.github.io//javascript/Nullish-Falsy/)
 - [Mockist TDD](https://hrllk.github.io//java/Mockist-TDD/)
-- [Implementations of Map](https://hrllk.github.io//java/Implementations-of-Map/)
 <!-- Posts:END -->
 
 ##  WebSite
