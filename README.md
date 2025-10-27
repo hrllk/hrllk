@@ -28,11 +28,11 @@ I believe simplicity is not about writing less code it's about writing the right
 
 ##  Posts
 <!-- Posts:START -->
+- [What Happen When Pull Event On Bare](https://hrllk.github.io//git/what-happen-bare-pull/)
 - [What is Bare Repository?](https://hrllk.github.io//git/bare-repository/)
 - [NDJSON](https://hrllk.github.io//cs/NDJSON/)
 - [Quick Start Task Master](https://hrllk.github.io//ai/getting-started-taskMatser/)
 - [ArrayDeque?](https://hrllk.github.io//data-structure/ArrayDeque/)
-- [Nullish, Falsy](https://hrllk.github.io//javascript/Nullish-Falsy/)
 <!-- Posts:END -->
 
 ##  WebSite
