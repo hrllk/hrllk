@@ -28,11 +28,11 @@ I believe simplicity is not about writing less code it's about writing the right
 
 ##  Posts
 <!-- Posts:START -->
+- [Git Adverties Refs Deep Dive](https://hrllk.github.io//git/Git-Adverties-Refs-Deep-Dive/)
 - [Git Pull Event Trace Log&lpar;client/server&rpar;](https://hrllk.github.io//git/git-pull-event-trace/)
 - [What Happen When Pull Event On Bare](https://hrllk.github.io//git/what-happen-bare-pull/)
 - [What is Bare Repository?](https://hrllk.github.io//git/bare-repository/)
 - [NDJSON](https://hrllk.github.io//cs/NDJSON/)
-- [Quick Start Task Master](https://hrllk.github.io//ai/getting-started-taskMatser/)
 <!-- Posts:END -->
 
 ##  WebSite
