@@ -31,12 +31,12 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 ##  Posts
 <!-- Posts:START -->
-- [try with resources](https://hrllk.github.io//java/try-with-resources/)
-- [X509TrustManager](https://hrllk.github.io//cs/X509TrustManager/)
-- [Packet Flow In TCP/IP](https://hrllk.github.io//cs/network/packet-flow/)
-- [PKCS#12 &lpar;Public Key Cryptography Standard No12&rpar;](https://hrllk.github.io//secure/PKCS12/)
-- [mTLS](https://hrllk.github.io//secure/mTLS/)
+- [Git Adverties Refs Deep Dive](https://hrllk.github.io//git/Git-Adverties-Refs-Deep-Dive/)
+- [Git Pull Event Trace Log&lpar;client/server&rpar;](https://hrllk.github.io//git/git-pull-event-trace/)
+- [What Happen When Pull Event On Bare](https://hrllk.github.io//git/what-happen-bare-pull/)
+- [What is Bare Repository?](https://hrllk.github.io//git/bare-repository/)
+- [NDJSON](https://hrllk.github.io//cs/NDJSON/)
 <!-- Posts:END -->
 
-##  WebSite
-- [PdfExporter](http://alzar.duckdns.org:8082)
+<!-- ##  WebSite -->
+<!-- - [PdfExporter](http://alzar.duckdns.org:8082) -->
