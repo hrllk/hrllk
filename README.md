@@ -11,17 +11,20 @@
 <!---->
 <!-- hi! i'm  -->
 
-#### Hi, I'm Hwiryung Kim Backend Developer & Simplicity
-I'm a backed developer with a passion for crafting clean, efficient, and maintainable code with a strong foundation in Java and deep experties in the Spring Framework, I focus on building  systems that are not only robust and scalable, but also sustainable over time.
+#### Problem Solver
+I analyze root causes and deliver solutions that improve system stability and productivity. I focus on version control, deployment automation, and quality validation to ensure continuous system reliability and performance improvement.
 
-
-#### Problem Solver First
-at my core, I'm a problem solver. I enjoy breaking down challenges into actionable tasks and iteating toward elegant, practical solutions. I continuously seek opportunities
-
-
-#### Driven by Simplicity
-One of my core development philosophies in the KISS principle: "Keep It Simple Stupid" <br>
-I believe simplicity is not about writing less code it's about writing the right code
+<!-- #### Hi, I'm Hwiryung Kim Backend Developer & Simplicity -->
+<!-- I'm a backed developer with a passion for crafting clean, efficient, and maintainable code with a strong foundation in Java and deep experties in the Spring Framework, I focus on building  systems that are not only robust and scalable, but also sustainable over time. -->
+<!---->
+<!---->
+<!-- #### Problem Solver First -->
+<!-- at my core, I'm a problem solver. I enjoy breaking down challenges into actionable tasks and iteating toward elegant, practical solutions. I continuously seek opportunities -->
+<!---->
+<!---->
+<!-- #### Driven by Simplicity -->
+<!-- One of my core development philosophies in the KISS principle: "Keep It Simple Stupid" <br> -->
+<!-- I believe simplicity is not about writing less code it's about writing the right code -->
 
 
 
