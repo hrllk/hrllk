@@ -39,4 +39,7 @@ I analyze root causes and deliver solutions that improve system stability and pr
 <!-- Posts:END -->
 
 <!-- ##  WebSite -->
+
+## Toy Projects
+- [JGitkins](https://jgitkins.org) (development)
 <!-- - [PdfExporter](http://alzar.duckdns.org:8082) -->
