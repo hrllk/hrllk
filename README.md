@@ -31,11 +31,11 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 ##  Posts
 <!-- Posts:START -->
-- [Git Adverties Refs Deep Dive](https://hrllk.github.io//git/Git-Adverties-Refs-Deep-Dive/)
-- [Git Pull Event Trace Log&lpar;client/server&rpar;](https://hrllk.github.io//git/git-pull-event-trace/)
-- [What Happen When Pull Event On Bare](https://hrllk.github.io//git/what-happen-bare-pull/)
-- [What is Bare Repository?](https://hrllk.github.io//git/bare-repository/)
-- [NDJSON](https://hrllk.github.io//cs/NDJSON/)
+- [cs roadmap](https://hrllk.github.io//cs/cs-map-for-backend/)
+- [시계열 데이터와 샘플링 주기 기본](https://hrllk.github.io//cs/observability/time-series-and-sampling-basics/)
+- [Git Pull Event Packfile Retrieval Deep Dive](https://hrllk.github.io//git/Git-Pull-Event-Packfile-Retrieval-Deep-Dive/)
+- [Git Negotiation Deep Dive](https://hrllk.github.io//git/Git-Pull-Event-Negotiation-Deep-Dive/)
+- [Git Adverties Refs Deep Dive](https://hrllk.github.io//git/Git-Pull-Event-Adverties-Refs-Deep-Dive/)
 <!-- Posts:END -->
 
 <!-- ##  WebSite -->
