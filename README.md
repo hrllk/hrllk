@@ -31,11 +31,11 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 ##  Posts
 <!-- Posts:START -->
+- [what is mark and Sweep](https://hrllk.github.io//cs/jvm/gc-mark-and-sweep-basics/)
 - [Prometheus Quick Start for Spring Boot](https://hrllk.github.io//cs/observability/spring-boot-prometheus-dependency/)
 - [cs roadmap](https://hrllk.github.io//cs/cs-map-for-backend/)
 - [Prometheus는 왜 Pull 모델을 쓰는가](https://hrllk.github.io//cs/observability/prometheus-pull-vs-push/)
 - [시계열 데이터와 샘플링 주기 기본](https://hrllk.github.io//cs/observability/time-series-and-sampling-basics/)
-- [Git Pull Event Packfile Retrieval Deep Dive](https://hrllk.github.io//git/Git-Pull-Event-Packfile-Retrieval-Deep-Dive/)
 <!-- Posts:END -->
 
 <!-- ##  WebSite -->
