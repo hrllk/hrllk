@@ -31,11 +31,11 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 ##  Posts
 <!-- Posts:START -->
-- [jvm old generation](https://hrllk.github.io//cs/jvm/garbage-collection/jvm-old-generation/)
-- [what is mark and Sweep](https://hrllk.github.io//cs/jvm/gc-mark-and-sweep-basics/)
-- [Prometheus Quick Start for Spring Boot](https://hrllk.github.io//cs/observability/spring-boot-prometheus-dependency/)
-- [cs roadmap](https://hrllk.github.io//cs/cs-map-for-backend/)
-- [Prometheus는 왜 Pull 모델을 쓰는가](https://hrllk.github.io//cs/observability/prometheus-pull-vs-push/)
+- [JVM Old Generation &lpar;고인물 영역&rpar; 이해하기](https://hrllk.github.io/jvm-old-generation.html)
+- [JVM Young Generation &lpar;신규 영역&rpar; 이해하기](https://hrllk.github.io/jvm-young-generation.html)
+- [what is mark and Sweep](https://hrllk.github.io/gc-mark-and-sweep-basics.html)
+- [Prometheus Quick Start for Spring Boot](https://hrllk.github.io/spring-boot-prometheus-dependency.html)
+- [CS Roadmap for Backend Developers](https://hrllk.github.io/cs-map-for-backend.html)
 <!-- Posts:END -->
 
 <!-- ##  WebSite -->
