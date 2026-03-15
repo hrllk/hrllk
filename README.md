@@ -31,9 +31,9 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 ##  Posts
 <!-- Posts:START -->
+- [내부 443 통신 요구사항](https://hrllk.github.io/istio-mesh-internal-443-series-overview.html)
 - [JVM Old Generation &lpar;고인물 영역&rpar; 이해하기](https://hrllk.github.io/jvm-old-generation.html)
-- [JVM Young Generation &lpar;신규 영역&rpar; 이해하기](https://hrllk.github.io/jvm-young-generation.html)
-- [what is mark and Sweep](https://hrllk.github.io/gc-mark-and-sweep-basics.html)
+- [jvm young generation](https://hrllk.github.io/jvm-young-generation.html)
 - [Prometheus Quick Start for Spring Boot](https://hrllk.github.io/spring-boot-prometheus-dependency.html)
 - [CS Roadmap for Backend Developers](https://hrllk.github.io/cs-map-for-backend.html)
 <!-- Posts:END -->
