@@ -31,11 +31,11 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 ##  Posts
 <!-- Posts:START -->
+- [Modern Beautiful API Response Design: Exception Translation Layer](https://hrllk.github.io/modern-beautiful-api-response-design-exception-translation-layer.html)
+- [Modern Beautiful API Response Design: External Error Contract](https://hrllk.github.io/modern-beautiful-api-response-design-external-error-contract.html)
+- [Modern Beautiful API Response Design: Internal Exception Model](https://hrllk.github.io/modern-beautiful-api-response-design-internal-exception-model.html)
+- [Modern Beautiful API Response Design: Prologue](https://hrllk.github.io/modern-beautiful-api-response-design-prologue.html)
 - [when should switch working clone to bare clone](https://hrllk.github.io/when-should-switch-working-clone-to-bare-clone.html)
-- [mesh series: mTLS mechanism with envoy](https://hrllk.github.io/mtls-mechanism-with-envoy.html)
-- [mesh series: envoy protocol upgrade&lpar;packet boxing unboxing&rpar;](https://hrllk.github.io/envoy-protocol-boxing-unboxing.html)
-- [mesh series: envoy how to intercept in, out bound traffic?](https://hrllk.github.io/envoy-how-to-intercept.html)
-- [mesh series: why do we use a service mesh?](https://hrllk.github.io/why-should-use-mesh.html)
 <!-- Posts:END -->
 
 <!-- ##  WebSite -->
