@@ -31,11 +31,11 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 ##  Posts
 <!-- Posts:START -->
-- [Modern Beautiful API Response Design: Exception Translation Layer](https://hrllk.github.io/modern-beautiful-api-response-design-exception-translation-layer.html)
-- [Modern Beautiful API Response Design: External Error Contract](https://hrllk.github.io/modern-beautiful-api-response-design-external-error-contract.html)
-- [Modern Beautiful API Response Design: Internal Exception Model](https://hrllk.github.io/modern-beautiful-api-response-design-internal-exception-model.html)
-- [Modern Beautiful API Response Design: Prologue](https://hrllk.github.io/modern-beautiful-api-response-design-prologue.html)
-- [when should switch working clone to bare clone](https://hrllk.github.io/when-should-switch-working-clone-to-bare-clone.html)
+- [Transactional Outbox in Practice: Operating in Production](https://hrllk.github.io/transactional-outbox-in-practice-operating-in-production.html)
+- [Transactional Outbox in Practice: Idempotent Consumer](https://hrllk.github.io/transactional-outbox-in-practice-idempotent-consumer.html)
+- [Transactional Outbox in Practice: Thin Poller and At-least-once](https://hrllk.github.io/transactional-outbox-in-practice-thin-poller-and-at-least-once.html)
+- [Transactional Outbox in Practice: Atomic Persist and Enqueue](https://hrllk.github.io/transactional-outbox-in-practice-atomic-persist-and-enqueue.html)
+- [Transactional Outbox in Practice: Prologue](https://hrllk.github.io/transactional-outbox-in-practice-prologue.html)
 <!-- Posts:END -->
 
 <!-- ##  WebSite -->
