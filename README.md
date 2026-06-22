@@ -40,6 +40,6 @@ I analyze root causes and deliver solutions that improve system stability and pr
 
 <!-- ##  WebSite -->
 
-## Toy Projects
-- [JGitkins](https://jgitkins.org) (development)
-<!-- - [PdfExporter](http://alzar.duckdns.org:8082) -->
+<!-- ## Toy Projects -->
+<!-- - [JGitkins](https://jgitkins.org) (development) -->
+<!-- <!-- - [PdfExporter](http://alzar.duckdns.org:8082) --> 
