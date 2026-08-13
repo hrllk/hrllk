@@ -2,13 +2,11 @@
 
 ## About Me
 
-### Fundamentals-Driven Builder
+### Getting to the Root of Problems
 
-Before improving an existing solution, I first ask whether the problem itself has been defined correctly.
+I start by understanding the real problem before improving a solution.
 
-I break complex problems into fundamental parts, challenge assumptions, and build simpler solutions from the underlying structure.
-
-Through projects such as `graphkeeper`, I turn recurring developer friction and unclear decision-making into small, focused tools.
+I break complex problems into smaller parts, question assumptions, and build simple solutions from the basics.
 
 ##  Posts
 <!-- Posts:START -->
